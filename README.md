@@ -1,8 +1,8 @@
 <h1>Hi, I'm Omar! <br/><a href="https://github.com/OPetricevic/Opetricevic">iOS Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>Swift Expense Tracker - Firebase Database Practice (AlgoExpert)</b>
-  - [SavvySaving Demo]()
+<b>Swift Expense Tracker - Firebase Database Practice</b>
+  - [SavvySaving Demo]<a href="https://github.com/OPetricevic/Opetricevic">
 
 <h2> 🤳 Connect with me:</h2>
 
