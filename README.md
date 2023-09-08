@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Swift Expense Tracker - Firebase Database Practice</b>
-  - [SavvySaving Demo]<a href="https://github.com/OPetricevic/Opetricevic">
+
+- [SavvySaving Demo](https://github.com/OPetricevic/SavvySaving-App)
 
 <h2> 🤳 Connect with me:</h2>
 
