@@ -5,6 +5,7 @@
 
 - [SavvySaving Demo](https://github.com/OPetricevic/SavvySaving-App)
 - [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
+- [API Weather Practice - ClimaApp](https://github.com/OPetricevic/ClimaApp)
 
 <h2> 🤳 Connect with me:</h2>
 
