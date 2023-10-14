@@ -5,11 +5,11 @@
 
 - [Expense Tracker App - SavvySaving App](https://github.com/OPetricevic/SavvySaving-App)
 - [Firebase Database & Authorization Pracice - FlashChatApp](https://github.com/OPetricevic/ClimaApp)
-
+  
 <b> API Practice</b>
 - [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
 - [API Weather Practice - ClimaApp](https://github.com/OPetricevic/ClimaApp)
-
+  
 <b> Swift General Practice</b>
 - [BMI Calculator](https://github.com/OPetricevic/BMICalculator)
 
