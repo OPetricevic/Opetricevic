@@ -4,6 +4,7 @@
 <b>Swift Expense Tracker - Firebase Database Practice</b>
 
 - [SavvySaving Demo](https://github.com/OPetricevic/SavvySaving-App)
+- [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
 
 <h2> 🤳 Connect with me:</h2>
 
