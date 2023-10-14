@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>Swift Expense Tracker - Firebase Database Practice</b>
 
-- [Expense Tracker App - Firebase Database - SavvySavingApp](https://github.com/OPetricevic/SavvySaving-App)
+- [Expense Tracker App using Firebase Database](https://github.com/OPetricevic/SavvySaving-App)
 - [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
 - [API Weather Practice - ClimaApp](https://github.com/OPetricevic/ClimaApp)
 - [Firebase Database & Authorization Pracice - FlashChatApp](https://github.com/OPetricevic/ClimaApp)
