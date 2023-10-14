@@ -7,6 +7,7 @@
 - [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
 - [API Weather Practice - ClimaApp](https://github.com/OPetricevic/ClimaApp)
 - [Firebase Database & Authorization Pracice - FlashChatApp](https://github.com/OPetricevic/ClimaApp)
+- [BMI Calculator](https://github.com/OPetricevic/BMICalculator)
 
 <h2> 🤳 Connect with me:</h2>
 
