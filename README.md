@@ -12,6 +12,7 @@
   
 <b> Swift General Practice</b>
 - [BMI Calculator](https://github.com/OPetricevic/BMICalculator)
+- [CalorieTracker - CoreData](https://github.com/OPetricevic/CalorieTracker)
 
 <h2> 🤳 Connect with me:</h2>
 
