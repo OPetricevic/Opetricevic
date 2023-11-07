@@ -1,4 +1,4 @@
-<h1> Hi, I'm Omar! <br/><a href="https://github.com/OPetricevic/Opetricevic">iOS Developer</a></h1>
+<h1>Hi, I'm Omar!<br/><a href="https://github.com/OPetricevic/Opetricevic">iOS Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b> Firebase Database Practice</b>
