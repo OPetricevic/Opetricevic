@@ -1,18 +1,17 @@
-<h1>Hi, I'm Omar!<br/><a href="https://github.com/OPetricevic/Opetricevic">iOS Developer</a></h1>
+<h1>Hi, I'm Omar!<br/><a href="https://github.com/OPetricevic/Opetricevic">Software Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b> Firebase Database Practice</b>
+<b> Swift iOS Projects </b>
 
 - [Expense Tracker App - SavvySaving App](https://github.com/OPetricevic/SavvySaving-App)
 - [Firebase Database & Authorization Pracice - FlashChatApp](https://github.com/OPetricevic/ClimaApp)
-  
-<b> API Practice</b>
 - [API Usage Practice - ByteCoin](https://github.com/OPetricevic/ByteCoin)
 - [API Weather Practice - ClimaApp](https://github.com/OPetricevic/ClimaApp)
-  
-<b> Swift General Practice</b>
 - [BMI Calculator](https://github.com/OPetricevic/BMICalculator)
 - [CalorieTracker - CoreData](https://github.com/OPetricevic/CalorieTracker)
+
+<b> GO Projects </b>
+- [LibraryManagmentSystem](https://github.com/OPetricevic/LibraryManagementSystem)
 
 <h2> 🤳 Connect with me:</h2>
 
