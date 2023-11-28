@@ -12,7 +12,7 @@
 
 <b> GO Projects </b>
 - [LibraryManagmentSystem](https://github.com/OPetricevic/LibraryManagementSystem)
-
+- [RSS Feed Scraper](https://github.com/OPetricevic/GoRSSHub)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
