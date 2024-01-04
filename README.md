@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar!<br/><a href="https://github.com/OPetricevic/Opetricevic">Software Developer</a></h1>
+<h1>Hi, I'm Omar!<br/><a href="https://github.com/OPetricevic/Opetricevic">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b> Swift iOS Projects </b>
